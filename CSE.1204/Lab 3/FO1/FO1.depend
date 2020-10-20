@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1568218637 source:f:\2nd semester\cse\cse.1204\lab 3\fo1\src\coord.cpp
+	<iostream>
+	"coord.h"
+
+1568220701 f:\2nd semester\cse\cse.1204\lab 3\fo1\include\coord.h
+
+1568218646 source:f:\2nd semester\cse\cse.1204\lab 3\fo1\main.cpp
+	<iostream>
+	"coord.h"
+

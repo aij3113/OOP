@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572249669 source:f:\2nd semester\cse\cse.1204\lab 7\inheritance\main.cpp
+	<iostream>
+	<string.h>
+	"person.h"
+
+1572249843 f:\2nd semester\cse\cse.1204\lab 7\inheritance\include\person.h
+
+1572249843 source:f:\2nd semester\cse\cse.1204\lab 7\inheritance\src\person.cpp
+	<iostream>
+	<string.h>
+	"person.h"
+

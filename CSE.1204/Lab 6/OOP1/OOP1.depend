@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1571081397 source:f:\2nd semester\cse\cse.1204\lab 6\oop1\src\classtest.cpp
+	<iostream>
+	"classtest.h"
+
+1571080421 f:\2nd semester\cse\cse.1204\lab 6\oop1\include\classtest.h
+
+1571082763 source:f:\2nd semester\cse\cse.1204\lab 6\oop1\main.cpp
+	<iostream>
+	"classtest.h"
+	"classtest1.h"
+
+1571156466 f:\2nd semester\cse\cse.1204\lab 6\oop1\include\classtest1.h
+
+1571082559 source:f:\2nd semester\cse\cse.1204\lab 6\oop1\src\classtest1.cpp
+	<iostream>
+	"classtest1.h"
+

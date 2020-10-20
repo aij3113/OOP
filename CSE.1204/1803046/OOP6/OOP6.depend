@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1571027619 source:g:\1803046\oop6\main.cpp
+	<iostream>
+	"classtest.h"
+
+1571025392 g:\1803046\oop6\include\classtest.h
+
+1571027575 source:g:\1803046\oop6\src\classtest.cpp
+	<iostream>
+	"classtest.h"
+
+1571026820 source:g:\1803046\oop6\src\classtest1.cpp
+	<iostream>
+	"classtest1.h"
+
+1571027093 g:\1803046\oop6\include\classtest1.h
+	<iostream>
+	"classtest1.h"
+

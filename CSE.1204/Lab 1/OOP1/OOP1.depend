@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1566927297 source:f:\2nd semester\cse\cse.1204\oop1\src\number.cpp
+	"Number.h"
+
+1566927226 f:\2nd semester\cse\cse.1204\oop1\include\number.h
+
+1566927405 source:f:\2nd semester\cse\cse.1204\oop1\main.cpp
+	<iostream>
+	"Number.h"
+
+1567449451 source:f:\2nd semester\cse\cse.1204\lab 1\oop1\src\number.cpp
+	"Number.h"
+
+1567454008 f:\2nd semester\cse\cse.1204\lab 1\oop1\include\number.h
+

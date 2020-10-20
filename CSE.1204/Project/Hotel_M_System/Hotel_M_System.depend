@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1579706050 source:f:\2nd semester\cse\cse.1204\project\hotel_m_system\main.cpp
+	<bits/stdc++.h>
+	"Manager.h"
+	"Main_Register_Book.h"
+
+1578670710 source:f:\2nd semester\cse\cse.1204\project\hotel_m_system\src\main_register_book.cpp
+	<bits/stdc++.h>
+	"Main_Register_Book.h"
+
+1578670695 f:\2nd semester\cse\cse.1204\project\hotel_m_system\include\main_register_book.h
+
+1575693013 f:\2nd semester\cse\cse.1204\project\hotel_m_system\include\manager.h
+
+1575690507 source:f:\2nd semester\cse\cse.1204\project\hotel_m_system\src\manager.cpp
+	<bits/stdc++.h>
+	"Manager.h"
+	"Main_Register_Book.h"
+

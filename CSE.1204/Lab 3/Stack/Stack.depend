@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1568222348 source:f:\2nd semester\cse\cse.1204\lab 3\stack\src\stack.cpp
+	<iostream>
+	"stack.h"
+
+1568220846 f:\2nd semester\cse\cse.1204\lab 3\stack\include\stack.h
+
+1568223406 source:f:\2nd semester\cse\cse.1204\lab 3\stack\main.cpp
+	<iostream>
+	"stack.h"
+

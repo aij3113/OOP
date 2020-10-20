@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570988259 source:f:\2nd semester\cse\cse.1204\lab 5\ff\main.cpp
+	<iostream>
+	"circle.h"
+
+1570384441 f:\2nd semester\cse\cse.1204\lab 5\ff\include\circle.h
+
+1570988113 source:f:\2nd semester\cse\cse.1204\lab 5\ff\src\circle.cpp
+	<iostream>
+	"circle.h"
+

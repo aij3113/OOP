@@ -1,0 +1,53 @@
+#ifndef CLASSTEST1_H
+#define CLASSTEST1_H
+
+static int no_of_student=0;
+static int total_marks=0;
+
+class classtest1
+{       int* marks;
+        static int no_of_student1;
+        static int total_marks1;
+    public:
+        classtest1();
+        classtest1(int);
+        void print_M();
+        classtest1 operator+(classtest1& s1);
+        ~classtest1();
+};
+
+
+#endif // CLASSTEST1_H
+
+#include <iostream>
+#include "classtest1.h"
+
+using namespace std;
+
+classtest1::classtest1()
+{
+    marks=new int();
+    *marks=0;
+    no_of_student1++;
+    total_marks1+=0;
+}
+classtest1::classtest1(int a){
+    marks=new int();
+    *marks=a;
+    no_of_student1++;
+    total_marks1+=a;
+}
+void classtest1::print_M(){
+        cout<<"Marks: "<<*marks<<endl;
+        cout<<"Avg Marks: "<<total_marks1/no_of_student1<<endl;
+}
+classtest1 classtest1::operator+(classtest1& s2){
+        int a;
+        a=*marks+*s2.marks;
+        classtest1 s0(a);
+        return s0;
+}
+classtest1::~classtest1(){
+    delete(marks);
+}
+

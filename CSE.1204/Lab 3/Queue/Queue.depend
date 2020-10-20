@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1568226291 source:f:\2nd semester\cse\cse.1204\lab 3\queue\main.cpp
+	<iostream>
+	"queue.h"
+
+1568225015 f:\2nd semester\cse\cse.1204\lab 3\queue\include\queue.h
+
+1568226358 source:f:\2nd semester\cse\cse.1204\lab 3\queue\src\queue.cpp
+	<iostream>
+	"queue.h"
+

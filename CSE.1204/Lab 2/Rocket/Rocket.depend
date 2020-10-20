@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1568045591 source:f:\2nd semester\cse\cse.1204\lab 2\rocket\src\user.cpp
+	<iostream>
+	"user.h"
+	<string.h>
+
+1568044547 f:\2nd semester\cse\cse.1204\lab 2\rocket\include\user.h
+
+1568044547 source:f:\2nd semester\cse\cse.1204\lab 2\rocket\main.cpp
+	<iostream>
+	"user.h"
+	<string.h>
+
